@@ -1,0 +1,254 @@
+[
+  {
+    "username": "test_user",
+    "email": "test@example.com",
+    "team": "Test Team",
+    "registrationDate": "2025-08-07T08:12:16.234Z",
+    "id": 1
+  },
+  {
+    "username": "qdff",
+    "email": "zxcvbn",
+    "team": "zxcvbn",
+    "registrationDate": "2025-08-07T08:13:21.214Z",
+    "id": 2
+  },
+  {
+    "username": "asdfghjk",
+    "email": "sdfghj",
+    "team": "jkljkl",
+    "registrationDate": "2025-08-07T08:15:31.045Z",
+    "id": 3
+  },
+  {
+    "username": "zxc",
+    "email": "zxc",
+    "team": "ghghgh",
+    "registrationDate": "2025-08-07T08:16:04.113Z",
+    "id": 4
+  },
+  {
+    "username": "john_doe",
+    "email": "john@test.com",
+    "team": "Red Team",
+    "registrationDate": "2025-08-07T08:19:41.705Z",
+    "id": 5
+  },
+  {
+    "username": "alice_smith",
+    "email": "alice@test.com",
+    "team": "Blue Team",
+    "registrationDate": "2025-08-07T08:19:43.852Z",
+    "id": 6
+  },
+  {
+    "username": "bob_wilson",
+    "email": "bob@test.com",
+    "team": "Green Team",
+    "registrationDate": "2025-08-07T08:19:45.932Z",
+    "id": 7
+  },
+  {
+    "username": "emma_brown",
+    "email": "emma@test.com",
+    "team": "Yellow Team",
+    "registrationDate": "2025-08-07T08:19:48.027Z",
+    "id": 8
+  },
+  {
+    "username": "david_clark",
+    "email": "david@test.com",
+    "team": "Purple Team",
+    "registrationDate": "2025-08-07T08:19:50.100Z",
+    "id": 9
+  },
+  {
+    "username": "test_final",
+    "email": "final@test.com",
+    "team": "Final Team",
+    "registrationDate": "2025-08-07T08:36:37.679Z",
+    "id": 10
+  },
+  {
+    "username": "final_test",
+    "email": "final_test@test.com",
+    "team": "Final Test Team",
+    "registrationDate": "2025-08-07T08:43:24.376Z",
+    "id": 11
+  },
+  {
+    "username": "john_doe",
+    "email": "john@example.com",
+    "team": "Red Team",
+    "registrationDate": "2025-08-07T08:45:06.164Z",
+    "id": 12
+  },
+  {
+    "username": "jane_smith",
+    "email": "jane@example.com",
+    "team": "Blue Team",
+    "registrationDate": "2025-08-07T08:45:07.262Z",
+    "id": 13
+  },
+  {
+    "username": "mike_wilson",
+    "email": "mike@example.com",
+    "team": "Green Team",
+    "registrationDate": "2025-08-07T08:45:08.280Z",
+    "id": 14
+  },
+  {
+    "username": "sarah_brown",
+    "email": "sarah@example.com",
+    "team": "Yellow Team",
+    "registrationDate": "2025-08-07T08:45:09.310Z",
+    "id": 15
+  },
+  {
+    "username": "alex_taylor",
+    "email": "alex@example.com",
+    "team": "Purple Team",
+    "registrationDate": "2025-08-07T08:45:10.339Z",
+    "id": 16
+  },
+  {
+    "username": "asd",
+    "email": "asdf",
+    "team": "asdfgh",
+    "registrationDate": "2025-08-07T08:46:17.914Z",
+    "id": 17
+  },
+  {
+    "username": "test_user",
+    "email": "test@example.com",
+    "team": "Test Team",
+    "registrationDate": "2025-08-07T08:56:25.097Z",
+    "id": 18
+  },
+  {
+    "username": "john_doe",
+    "email": "john@example.com",
+    "team": "Red Team",
+    "registrationDate": "2025-08-07T09:00:19.895Z",
+    "id": 19
+  },
+  {
+    "username": "jane_smith",
+    "email": "jane@example.com",
+    "team": "Blue Team",
+    "registrationDate": "2025-08-07T09:00:20.913Z",
+    "id": 20
+  },
+  {
+    "username": "mike_wilson",
+    "email": "mike@example.com",
+    "team": "Green Team",
+    "registrationDate": "2025-08-07T09:00:21.946Z",
+    "id": 21
+  },
+  {
+    "username": "sarah_brown",
+    "email": "sarah@example.com",
+    "team": "Yellow Team",
+    "registrationDate": "2025-08-07T09:00:22.972Z",
+    "id": 22
+  },
+  {
+    "username": "alex_taylor",
+    "email": "alex@example.com",
+    "team": "Purple Team",
+    "registrationDate": "2025-08-07T09:00:24.000Z",
+    "id": 23
+  },
+  {
+    "username": "lkjhgfdsaluytre",
+    "email": "lkjhglkjhg",
+    "team": "yellow",
+    "registrationDate": "2025-08-07T09:01:45.089Z",
+    "id": 24
+  },
+  {
+    "username": "john_doe",
+    "email": "john@example.com",
+    "team": "Red Team",
+    "registrationDate": "2025-08-07T09:05:03.810Z",
+    "id": 25
+  },
+  {
+    "username": "alice_smith",
+    "email": "alice@example.com",
+    "team": "Blue Team",
+    "registrationDate": "2025-08-07T09:05:04.911Z",
+    "id": 26
+  },
+  {
+    "username": "bob_wilson",
+    "email": "bob@example.com",
+    "team": "Green Team",
+    "registrationDate": "2025-08-07T09:05:06.015Z",
+    "id": 27
+  },
+  {
+    "username": "emma_brown",
+    "email": "emma@example.com",
+    "team": "Red Team",
+    "registrationDate": "2025-08-07T09:05:07.083Z",
+    "id": 28
+  },
+  {
+    "username": "mike_jones",
+    "email": "mike@example.com",
+    "team": "Blue Team",
+    "registrationDate": "2025-08-07T09:05:08.174Z",
+    "id": 29
+  },
+  {
+    "username": "tyd",
+    "email": "ty",
+    "team": "all",
+    "registrationDate": "2025-08-07T09:06:51.074Z",
+    "id": 30
+  },
+  {
+    "username": "u1q",
+    "email": "gf",
+    "team": "green",
+    "registrationDate": "2025-08-07T09:12:21.161Z",
+    "id": 31
+  },
+  {
+    "username": "you",
+    "email": "you",
+    "team": "goat",
+    "registrationDate": "2025-08-07T09:13:31.116Z",
+    "id": 32
+  },
+  {
+    "username": "final",
+    "email": "final",
+    "team": "final",
+    "registrationDate": "2025-08-07T09:27:36.017Z",
+    "id": 33
+  },
+  {
+    "username": "qqqqq",
+    "email": "qqqqq",
+    "team": "qqqqq",
+    "registrationDate": "2025-08-07T09:29:00.998Z",
+    "id": 34
+  },
+  {
+    "username": "ppp",
+    "email": "ppp",
+    "team": "pppppp",
+    "registrationDate": "2025-08-13T14:13:15.602Z",
+    "id": 35
+  },
+  {
+    "username": "lkj",
+    "email": "lkj",
+    "team": "lkjlkj",
+    "registrationDate": "2025-08-20T11:29:16.457Z",
+    "id": 36
+  }
+]
